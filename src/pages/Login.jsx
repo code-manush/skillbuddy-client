@@ -96,7 +96,7 @@ const Login = () => {
                         </div>
                         {/* Sign in Redirect */}
                         <p className="text-sm text-center text-gray-700 mt-4">
-                            Don't have an account? <a href="/login" className="text-blue-600 font-medium">Sign Up</a>
+                            Don't have an account? <a href="/signup" className="text-blue-600 font-medium">Sign Up</a>
                         </p>
                     </div>
 
